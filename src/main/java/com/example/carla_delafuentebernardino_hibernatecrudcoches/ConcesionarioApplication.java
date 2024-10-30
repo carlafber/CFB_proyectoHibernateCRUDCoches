@@ -21,4 +21,3 @@ public class ConcesionarioApplication extends Application {
         launch();
     }
 }
-
